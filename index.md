@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区邱隘镇盛莫路1519号浙江万里学院</b></p>
     </td>
     <td width="25%">
-      <img src="/dingliangyu.jpg" width="100%">      % 
+      <img src="/dingliangyu.jpg" width="100%">      
     </td>
   </tr>
 </table>
